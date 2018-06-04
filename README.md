@@ -1,1 +1,3 @@
 # SQL BOOTCAMP
+
+SQL Bootcamp lecture and slides and notes images cheatsheets and venn diagrams. How to load up Reveal.js slides host the server and display on localhost. More SQL work to complete for this course Still need to finish JOINS. Create databases, and how to drop tables. Probably will add installation information as well for mac linux and windows for postgresql and  pgAdmin. Add more problem sets for healthcare niche and for data science users that will eventually run Machine Learning.
