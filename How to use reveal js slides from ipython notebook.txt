@@ -1,0 +1,26 @@
+view toolbar slideshow to choose what the cells show
+
+NOTE: only the code sections can get a scroll bar
+the text boxes need to just be small enough to show what I want.
+
+Create the slideshow
+
+save to windows desktop
+
+Move to the WINDOWS desktop to find the created slides (mnt c Users mendy Desktop)
+
+run the server with this command 
+
+python -m nbconvert.postprocessors.serve foo.slides.html
+
+foo is the slides name but with the slides.html ending which was the file we saved earlier
+
+Open the browser then 
+
+Use this command to start the reveal.js slide
+
+http://127.0.0.1:8000/SQL_Bootcamp.slides.html
+
+right and left arrows to move slides
+subslides are with the up and down arrows
+esc shows all the slides
